@@ -8,19 +8,21 @@ namespace MyGame
 {
     public class Animation
     {
-        private string name;
         private List<IntPtr> textures;
         private int currentFrameIndex = 0;
         private float speed = 0.5f;
         private float currentAnimationTime;
         private bool isLoopEnabled;
         public int FramesCount => textures.Count;
-        public int CurrentFrameIndex => currentFrameIndex;
+        public int CurrentFrameIndex
+        {
+            get { return currentFrameIndex; }
+            set { currentFrameIndex = value; }
+        }
         public IntPtr CurrentFrame => textures[currentFrameIndex];
 
-        public Animation(string name, List<IntPtr> frames, float speed, bool isLoopEnabled)
+        public Animation(List<IntPtr> frames, float speed, bool isLoopEnabled)
         {
-            this.name = name;
             textures = frames;
             this.speed = speed;
             this.isLoopEnabled = isLoopEnabled;

@@ -50,10 +50,15 @@ namespace MyGame
 
             foreach (Enemy enemy in enemies)
             {
-                if (enemy.IsActive)
+                /*if (enemy.IsActive)
                 {
                     enemy.Render();
                 }
+                if (enemy.IsShooted && !enemy.IsActive)
+                {
+                    enemy.Render();
+                }*/
+                enemy.Render();
             }
             mira.Render();
             Engine.DrawText($"ducks left: {GameManager.DuckHunt}", 40, 40, 0, 0, 0, Program.gameFont);
@@ -72,6 +77,7 @@ namespace MyGame
                 {
                     enemy.IsActive = false;
                     GameManager.DuckHunt -= 1;
+                    enemy.IsShooted = true;
                 }
             }
         }

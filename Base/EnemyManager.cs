@@ -34,7 +34,7 @@ namespace MyGame
                 acumulador = 0;
                 foreach (Enemy enemy in LevelManager.enemies)
                 {
-                    if (!enemy.IsActive)
+                    if (!enemy.IsActive && !enemy.IsShooted)
                     {
                         estante = rand.Next(1, 5);
                         enemy.ResetEnemy(estante);
