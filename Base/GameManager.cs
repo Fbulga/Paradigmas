@@ -12,10 +12,10 @@ namespace MyGame
     {
         private static GameManager instance;
         private static float gameTime = 15.0f;
-        private static int duckHunted = 0;
-        public static int DuckHunted { 
-            get { return duckHunted; }
-            set { duckHunted = value; } 
+        private static int duckHunt = 0;
+        public static int DuckHunt { 
+            get { return duckHunt; }
+            set { duckHunt = value; } 
         }
         public static float GameTime
         {
@@ -52,9 +52,8 @@ namespace MyGame
             {
                 GameStateManager.ChangeGameStatus(GameState.DefeatScreen);
             }
-            if (duckHunted >= 10)
+            if (duckHunt <= 0)
             {
-                duckHunted = 0;
                 GameStateManager.ChangeGameStatus(GameState.VictoryScreen);
             }
         }

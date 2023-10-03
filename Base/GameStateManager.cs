@@ -41,6 +41,7 @@ namespace MyGame
                     if (Engine.KeyPress(Engine.KEY_P))
                     {
                         GameManager.GameTime = 15.0f;
+                        GameManager.DuckHunt = 10;
                         gameState = GameState.Gameplay;
                     }
                     break;

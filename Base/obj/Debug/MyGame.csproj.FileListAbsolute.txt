@@ -121,3 +121,4 @@ C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\obj\Debug\MyGame.csproj.Core
 C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\obj\Debug\MyGame.csproj.CopyComplete
 C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\obj\Debug\MyGame.exe
 C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\obj\Debug\MyGame.pdb
+C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\bin\Debug\assets\Fonts\baby blocks.ttf

@@ -56,6 +56,8 @@ namespace MyGame
                 }
             }
             mira.Render();
+            Engine.DrawText($"ducks left: {GameManager.DuckHunt}", 40, 40, 0, 0, 0, Program.gameFont);
+            Engine.DrawText($"time left: {Math.Ceiling(GameManager.GameTime)}", 500, 40, 0, 0, 0, Program.gameFont);
         }
         public static void Initialize()
         {
@@ -69,7 +71,7 @@ namespace MyGame
                 if (enemy.IsActive && enemy.Transform.Position.x < mira.Transform.Position.x + mira.Width / 2 && enemy.Transform.Position.x + enemy.Width > mira.Transform.Position.x + mira.Width / 2 && enemy.Transform.Position.y < mira.Transform.Position.y + mira.Height / 2 && enemy.Transform.Position.y + enemy.Height > mira.Transform.Position.y + mira.Height / 2)
                 {
                     enemy.IsActive = false;
-                    GameManager.DuckHunted += 1;
+                    GameManager.DuckHunt -= 1;
                 }
             }
         }

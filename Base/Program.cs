@@ -12,7 +12,7 @@ namespace MyGame
         private static DateTime _startTime;
         private static float _lastTimeFrame;
         public static float DeltaTime;
- 
+        public static IntPtr gameFont;
         static void Main(string[] args)
         {
             Initialize();
@@ -40,6 +40,7 @@ namespace MyGame
             Engine.Initialize();
             LevelManager.Initialize();
             _startTime = DateTime.Now;
+            gameFont = Engine.LoadFont("assets/Fonts/baby blocks.ttf", 50);
         }
     }
 
