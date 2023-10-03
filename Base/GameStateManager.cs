@@ -42,6 +42,10 @@ namespace MyGame
                     {
                         GameManager.GameTime = 15.0f;
                         GameManager.DuckHunt = 10;
+                        if(LevelManager.enemies != null)
+                        {
+                            LevelManager.enemies.Clear();
+                        }
                         gameState = GameState.Gameplay;
                     }
                     break;

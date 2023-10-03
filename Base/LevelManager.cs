@@ -50,14 +50,6 @@ namespace MyGame
 
             foreach (Enemy enemy in enemies)
             {
-                /*if (enemy.IsActive)
-                {
-                    enemy.Render();
-                }
-                if (enemy.IsShooted && !enemy.IsActive)
-                {
-                    enemy.Render();
-                }*/
                 enemy.Render();
             }
             mira.Render();
