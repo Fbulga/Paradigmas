@@ -1,0 +1,98 @@
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\bin\Debug\assets\0.png
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\bin\Debug\assets\1.png
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\bin\Debug\assets\2.png
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\bin\Debug\MyGame.exe
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\bin\Debug\MyGame.pdb
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\obj\Debug\MyGame.exe
+C:\Users\Admin\Downloads\06b2-MiniFreddy01b\MiniFreddy\MiniFreddy\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\assets\Ship\Idle\0.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\assets\Ship\Idle\1.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\assets\Ship\Idle\2.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE FINAL\Base\bin\Debug\assets\Ship\Idle\3.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\Ship\Idle\0.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\Ship\Idle\1.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\Ship\Idle\2.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\Ship\Idle\3.png
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UADE OBJETOS\BASE\Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\Ship\Idle\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\Ship\Idle\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\Ship\Idle\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\BASE\Base\bin\Debug\assets\Ship\Idle\3.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Fondos\FondoCarpa.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Jugador\Mira.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Jugador\Pistola.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Pato.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\MyGame.exe.config
+C:\Users\vvirzi\Desktop\Base\bin\Debug\MyGame.exe
+C:\Users\vvirzi\Desktop\Base\bin\Debug\MyGame.pdb
+C:\Users\vvirzi\Desktop\Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\vvirzi\Desktop\Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\vvirzi\Desktop\Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\vvirzi\Desktop\Base\obj\Debug\MyGame.exe
+C:\Users\vvirzi\Desktop\Base\obj\Debug\MyGame.pdb
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Pato volteado.png
+C:\Users\alu702\Downloads\Base\bin\Debug\assets\Fondos\FondoCarpa.png
+C:\Users\alu702\Downloads\Base\bin\Debug\assets\Jugador\Mira.png
+C:\Users\alu702\Downloads\Base\bin\Debug\assets\Jugador\Pistola.png
+C:\Users\alu702\Downloads\Base\bin\Debug\assets\Objetivos\Pato volteado.png
+C:\Users\alu702\Downloads\Base\bin\Debug\assets\Objetivos\Pato.png
+C:\Users\alu702\Downloads\Base\bin\Debug\MyGame.exe.config
+C:\Users\alu702\Downloads\Base\bin\Debug\MyGame.exe
+C:\Users\alu702\Downloads\Base\bin\Debug\MyGame.pdb
+C:\Users\alu702\Downloads\Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\alu702\Downloads\Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\alu702\Downloads\Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\alu702\Downloads\Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\alu702\Downloads\Base\obj\Debug\MyGame.exe
+C:\Users\alu702\Downloads\Base\obj\Debug\MyGame.pdb
+C:\Users\alu702\Downloads\Base\bin\Debug\assets\Fondos\MenuInicial.png
+C:\Users\alu702\Downloads\Base\bin\Debug\assets\Fondos\PantallaDerrota.png
+C:\Users\alu702\Downloads\Base\bin\Debug\assets\Fondos\PantallaVictoria.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Fondos\MenuInicial.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Fondos\PantallaDerrota.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Fondos\PantallaVictoria.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Muerte Pato Volteado\0.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Muerte Pato Volteado\1.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Muerte Pato Volteado\2.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Muerte Pato Volteado\3.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Muerte Pato\0.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Muerte Pato\1.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Muerte Pato\2.png
+C:\Users\vvirzi\Desktop\Base\bin\Debug\assets\Objetivos\Muerte Pato\3.png
