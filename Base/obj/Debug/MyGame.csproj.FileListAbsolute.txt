@@ -122,3 +122,28 @@ C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\obj\Debug\MyGame.csproj.Copy
 C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\obj\Debug\MyGame.exe
 C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\obj\Debug\MyGame.pdb
 C:\Users\Valentino\Documents\GitHub\Paradigmas\Base\bin\Debug\assets\Fonts\baby blocks.ttf
+F:\UADE\Paradigmas\Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+F:\UADE\Paradigmas\Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+F:\UADE\Paradigmas\Base\obj\Debug\MyGame.exe
+F:\UADE\Paradigmas\Base\obj\Debug\MyGame.pdb
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Fondos\FondoCarpa.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Fondos\MenuInicial.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Fondos\PantallaDerrota.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Fondos\PantallaVictoria.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Jugador\Mira.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Jugador\Pistola.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Muerte Pato Volteado\0.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Muerte Pato Volteado\1.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Muerte Pato Volteado\2.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Muerte Pato Volteado\3.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Muerte Pato\0.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Muerte Pato\1.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Muerte Pato\2.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Muerte Pato\3.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Pato volteado.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Objetivos\Pato.png
+F:\UADE\Paradigmas\Base\bin\Debug\assets\Fonts\baby blocks.ttf
+F:\UADE\Paradigmas\Base\bin\Debug\MyGame.exe.config
+F:\UADE\Paradigmas\Base\bin\Debug\MyGame.exe
+F:\UADE\Paradigmas\Base\bin\Debug\MyGame.pdb
+F:\UADE\Paradigmas\Base\obj\Debug\MyGame.csproj.CopyComplete

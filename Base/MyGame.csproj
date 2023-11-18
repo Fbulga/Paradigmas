@@ -53,6 +53,7 @@
     <Compile Include="Font.cs" />
     <Compile Include="Engine.cs" />
     <Compile Include="GameManager.cs" />
+    <Compile Include="GameObject.cs" />
     <Compile Include="GameStateManager.cs" />
     <Compile Include="LevelManager.cs" />
     <Compile Include="Mira.cs" />
