@@ -51,19 +51,19 @@ namespace MyGame
             estante = rand.Next(1, 5);
             if (estante == 1)
             {
-                LevelManager.enemies.Add(new Enemy(223, "assets/Objetivos/Pato volteado.png", -150));
+                LevelManager.enemies.Add(new Enemy(223, "assets/Objetivos/Pato volteado.png", -150,121,114));
             }
             if (estante == 2)
             {
-                LevelManager.enemies.Add(new Enemy(363, "assets/Objetivos/Pato.png", 150));
+                LevelManager.enemies.Add(new Enemy(363, "assets/Objetivos/Pato.png", 150, 121, 114));
             }
             if (estante == 3)
             {
-                LevelManager.enemies.Add(new Enemy(503, "assets/Objetivos/Pato volteado.png", -150));
+                LevelManager.enemies.Add(new Enemy(503, "assets/Objetivos/Pato volteado.png", -150, 121, 114));
             }
             if (estante == 4)
             {
-                LevelManager.enemies.Add(new Enemy(650, "assets/Objetivos/Pato.png", 150));
+                LevelManager.enemies.Add(new Enemy(650, "assets/Objetivos/Pato.png", 150, 121, 114));
             }
         }
     }

@@ -8,14 +8,15 @@ using System.Threading.Tasks;
 
 namespace MyGame
 {
-    public class Enemy
+    public class Enemy : GameObject
     {
-        private Transform transform;
-        private IntPtr image;
-        private int width = 121;
-        private int height = 114;
-        private float speed;
-        private int limit;
+        //private Transform transform;
+        //private IntPtr image;
+        //private int width = 121;
+        //private int height = 114;
+        //private float speed;
+        //private int limit;
+
         private bool isActive;
         private bool isShooted = false;
         private Animation deathAnimation;
@@ -34,10 +35,12 @@ namespace MyGame
             set { isShooted = value; }
         }
 
-        public Enemy (int y, string image, float speed)
+        public Enemy (int y, string image, float speed, int width, int height)
         {
             this.image = Engine.LoadImage(image);
             this.speed = speed;
+            this.width = width;
+            this.height = height;
            
             IsActive = true;
             if (speed>0)
@@ -53,7 +56,7 @@ namespace MyGame
             CreateAnimations();
         }
 
-        public void Update ()
+        public override void Update ()
         {
             CheckLimits();
             if (IsActive)
@@ -63,7 +66,7 @@ namespace MyGame
             
         }
 
-        public void Render()
+       public override void Render()
         {
             if (isActive)
             {

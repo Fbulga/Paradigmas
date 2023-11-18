@@ -58,7 +58,7 @@ namespace MyGame
         }
         public static void Initialize()
         {
-            mira = new Mira(new Vector2(512, 512), 200.0f, "assets/Jugador/Mira.png");
+            mira = new Mira(new Vector2(512, 512), 200.0f, "assets/Jugador/Mira.png",85,83);
             EnemyManager.GenerateEnemy();
         }
         private static void OnCollision()
